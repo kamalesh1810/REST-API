@@ -6,7 +6,7 @@ Steps to run:-
 
 ● Clone repository into local machine
 
-● From the current directory run npm run start to start the server
+● From the current directory run `npm run start` to start the server
 
 ● Use Postman or any other API testing software to check the CRUD operations
 

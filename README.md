@@ -8,7 +8,7 @@ Steps to run:-
 
 ● From the current directory run `npm run start` to start the server
 
-● Use Postman or any other API testing software to check the CRUD operations
+● Use Postman or any other API testing software to use the CRUD operations
 
 ● POST Request example data:-
 
